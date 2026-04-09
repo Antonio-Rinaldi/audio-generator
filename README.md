@@ -1,6 +1,7 @@
 # audio-generator-cli
 
-`audio-generator` is a lightweight CLI that takes input text and generates one audio file using an OpenAI-compatible `/v1/audio/speech` backend.
+`audio-generator` is a lightweight CLI that takes input text and generates one audio file using an OpenAI-compatible
+`/v1/audio/speech` backend.
 
 ## Features
 
